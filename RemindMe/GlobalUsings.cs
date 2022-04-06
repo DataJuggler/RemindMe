@@ -1,0 +1,11 @@
+﻿global using ObjectLibrary.BusinessObjects;
+global using ObjectLibrary.Enumerations;
+global using DataJuggler.Win.Controls;
+global using DataJuggler.Win.Controls.Enumerations;
+global using DataJuggler.Win.Controls.Interfaces;
+global using DataJuggler.UltimateHelper;
+global using DataJuggler.UltimateHelper.Objects;
+global using XmlMirror.Runtime6;
+global using RemindMe.Xml.Writers;
+global using ApplicationLogicComponent.Connection;
+global using DataGateway;
